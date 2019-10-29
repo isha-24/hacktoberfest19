@@ -38,6 +38,9 @@ system.out.println(" hello world");
 
 fmt.Println("Hello World")   
 
+print("kem chho badhha!!!")
+
+print("Yes its a language")
 console.log("Hello world")   
 
 print("Hello world ")   
